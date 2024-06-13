@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "FaceIDSignupApp",
+    "slug": "FaceIDSignupApp",
+    "version": "1.0.0",
+    "sdkVersion": "45.0.0",
+    "platforms": [
+      "ios"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.FaceIDSignupApp",
+      "config": {
+        "usesNonExemptEncryption": false,
+        "facebookAppId": "YOUR_FACEBOOK_APP_ID",
+        "facebookDisplayName": "FaceIDSignupApp"
+      }
+    }
+  }
+}
